@@ -17,9 +17,10 @@
 - [Continuum RT](https://continuum.graphics/continuum-rt/) (Currently not compatible with 1.20.x)
 
 ## Mods
+(Only 2 of CIT Resewn, Borderless Mining, and Spyglass Improvements can be enabled at the same time on Quilt)
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
-- [CIT Resewn](https://modrinth.com/mod/cit-resewn) (Currently not compatible with Spyglass Improvements on Quilt)
+- [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 - [Fastload](https://modrinth.com/mod/fastload)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
@@ -55,7 +56,7 @@
 - [ReplayMod](https://modrinth.com/mod/replaymod)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [Sodium](https://modrinth.com/mod/sodium)
-- [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements) (Currently not compatible with CIT Resewn on Quilt)
+- [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements)
 - [Spyglass Astronomy](https://modrinth.com/mod/spyglass-astronomy)
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
 - [ThreadTweak](https://modrinth.com/mod/threadtweak)
