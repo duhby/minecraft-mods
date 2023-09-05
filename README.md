@@ -7,9 +7,9 @@
 ## Resource Packs
 - [3D Default](https://modrinth.com/resourcepack/3d-default) (Custom no-glass version for better Continuity support)
 - [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
-- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
 - [Ender Dragon Wings](https://modrinth.com/resourcepack/ender-dragon-wings) (Custom mcmeta.pack_format updated version)
 - [Endhanced Frames](https://modrinth.com/resourcepack/endhanced-frames)
+- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
 
 ## Shader Packs
 - [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
