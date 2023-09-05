@@ -55,7 +55,6 @@
 - [ReplayMod](https://modrinth.com/mod/replaymod)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [Sodium](https://modrinth.com/mod/sodium)
-- [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements) (Unstable on Quilt on 1.20.x)
 - [Spyglass Astronomy](https://modrinth.com/mod/spyglass-astronomy)
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
 - [ThreadTweak](https://modrinth.com/mod/threadtweak)
@@ -63,3 +62,4 @@
 - [Wavey Capes](https://modrinth.com/mod/wavey-capes)
 - [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 - [WTHIT](https://modrinth.com/mod/wthit)
+- [Zoomglass](https://modrinth.com/mod/zoomglass)
