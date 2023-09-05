@@ -1,7 +1,22 @@
 # Minecraft Resources
 
+## Data Packs
 - [Anti Enderman Grief](https://vanillatweaks.net/picker/datapacks/)
 - [Unlock All Recipes](https://vanillatweaks.net/picker/datapacks/)
+
+## Resource Packs
+- [3D Default](https://modrinth.com/resourcepack/3d-default) (Custom no-glass version for better Continuity support)
+- [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
+- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
+- [Ender Dragon Wings](https://modrinth.com/resourcepack/ender-dragon-wings) (Custom mcmeta.pack_format updated version)
+- [Endhanced Frames](https://modrinth.com/resourcepack/endhanced-frames)
+
+## Shader Packs
+- [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
+- [Continuum 2.1](https://continuum.graphics/continuum-shaders/) (Currently not compatible with 1.20.x)
+- [Continuum RT](https://continuum.graphics/continuum-rt/) (Currently not compatible with 1.20.x)
+
+## Mods
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn)
@@ -41,16 +56,10 @@
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements)
-- [Spyglass Astronomy](https://modrinth.com/mod/spyglass-astronomy) (Currently not compatible with quilt)
+- [Spyglass Astronomy](https://modrinth.com/mod/spyglass-astronomy) (Currently not compatible with Quilt)
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
 - [ThreadTweak](https://modrinth.com/mod/threadtweak)
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
 - [Wavey Capes](https://modrinth.com/mod/wavey-capes)
 - [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 - [WTHIT](https://modrinth.com/mod/wthit)
-- [3D Default](https://modrinth.com/resourcepack/3d-default) (Custom no-glass version for better Continuity support)
-- [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
-- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
-- [Ender Dragon Wings](https://modrinth.com/resourcepack/ender-dragon-wings) (Custom mcmeta.pack_format updated version)
-- [Endhanced Frames](https://modrinth.com/resourcepack/endhanced-frames)
-- [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
