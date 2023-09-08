@@ -10,6 +10,7 @@
 - [Ender Dragon Wings](https://modrinth.com/resourcepack/ender-dragon-wings) (Custom mcmeta.pack_format updated version)
 - [Endhanced Frames](https://modrinth.com/resourcepack/endhanced-frames)
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
+- [Sus Sand and Gravel](https://vanillatweaks.net/picker/resource-packs/)
 
 ## Shader Packs
 - [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
