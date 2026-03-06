@@ -1,21 +1,25 @@
 ## Notes
+
 - if 3d skin layers causes issues with shader shadows and colors, enable the fix in 3d skin layer settings
 - if using a PBR resource pack with shaders
   - in PBR Config in shader settings
-    - turn off Integrated PBR->Generated *
+    - turn off Integrated PBR->Generated \*
     - in Resourcepack PBR turn all on and set material format to labPBR 1.3
       - set Parallax Config->Parallax Samples to
         - SPBR: 64
         - VibrantPBR: 128
 
---------
+---
+
 # Minecraft Resources
 
 ## Data Packs
+
 - [Anti Enderman Grief](https://vanillatweaks.net/picker/datapacks/)
 - [Unlock All Recipes](https://vanillatweaks.net/picker/datapacks/)
 
 ## Resource Packs
+
 - [3D Default](https://modrinth.com/resourcepack/3d-default) (Custom no-glass version for better Continuity support)
 - [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
 - [Ender Dragon Wings](https://modrinth.com/resourcepack/ender-dragon-wings) (Custom mcmeta.pack_format updated version)
@@ -24,11 +28,13 @@
 - [Sus Sand and Gravel](https://vanillatweaks.net/picker/resource-packs/)
 
 ## Shader Packs
+
 - [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
 - [Continuum 2.1](https://continuum.graphics/continuum-shaders/) (Currently not compatible with 1.20.x)
 - [Continuum RT](https://continuum.graphics/continuum-rt/) (Currently not compatible with 1.20.x)
 
 ## Mods
+
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
 - [bad packets](https://modrinth.com/mod/badpackets)
@@ -73,6 +79,11 @@
 - [ThreadTweak](https://modrinth.com/mod/threadtweak)
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
 - [Wavey Capes](https://modrinth.com/mod/wavey-capes)
+- [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+- [WTHIT](https://modrinth.com/mod/wthit)
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+- [Zoomglass](https://modrinth.com/mod/zoomglass)pes)
 - [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 - [WTHIT](https://modrinth.com/mod/wthit)
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
