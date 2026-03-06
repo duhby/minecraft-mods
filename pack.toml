@@ -1,0 +1,13 @@
+name = "duhby's tmc"
+author = "duhby"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7908d842ccc4b1722acb2717b38b375c90e73a6391d0d037ad6680ac8acf7134"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"

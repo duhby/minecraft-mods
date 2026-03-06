@@ -1,0 +1,104 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "6ad3843317506b0a067770f56a8b04aaea676e10e99de7773a8089b02b4fdee6"
+
+[[files]]
+file = "README.md"
+hash = "ffe5f24782b61294c77cb468495a35a2928551d78c573c5e00c5c1fec09a4ffd"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "d432f80f3f45a8a54ad6379fef75982173578f746eb5f11cb9368a9ff7e4e2ca"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "2fa6655542b90a86aa6a27219aa662bddd1b38a13bbb1f5a35eb49b1920478d6"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "c23a1be7641341478b09c5c4f835b5e024a246f9e8521e92905bcab0d0e8cce0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "38c950bdd47f54d586d1e9ae0c714574885423941ed7799f11b776d2b05ed02f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c064e431015fe06786c17e18b8cfc28751a994e2ee251a357c0043a72f649403"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "986e43ff06d2a79effec6e219aca063d7b53a98096c5f63983f23cf54c11c7e5"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "0daa4e02968a34979c5a13772883d2f3ae4c92943461ba069667d15f42bb6a94"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "26c0e4a143ee9c0aa5c257996a7efba141c30674f2b0209af5c263c36db555ea"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "31b53c71c2bf08da156167befe54b5717e71ee871e10ef78a70967a0bdc8b56b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spbr.pw.toml"
+hash = "e1b500742a0d1cd9eb50a3eca0171ccdcf5154e90d85d9b02648959b7b87f50d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vibrantpbr.pw.toml"
+hash = "574a7db5b6d37453e9e82ad86a9d961939fdb3d6489a85fe941272a24a1da9e8"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "4fc7f37b65f44ae8ba65a06c9031a9c654c0c1ad993ccbf6f7822d5b7ea98d37"
+metafile = true

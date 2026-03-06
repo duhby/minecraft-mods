@@ -1,3 +1,14 @@
+## Notes
+- if 3d skin layers causes issues with shader shadows and colors, enable the fix in 3d skin layer settings
+- if using a PBR resource pack with shaders
+  - in PBR Config in shader settings
+    - turn off Integrated PBR->Generated *
+    - in Resourcepack PBR turn all on and set material format to labPBR 1.3
+      - set Parallax Config->Parallax Samples to
+        - SPBR: 64
+        - VibrantPBR: 128
+
+--------
 # Minecraft Resources
 
 ## Data Packs
