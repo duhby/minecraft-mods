@@ -14,6 +14,16 @@ hash = "d432f80f3f45a8a54ad6379fef75982173578f746eb5f11cb9368a9ff7e4e2ca"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "fbb61854650a7cdf7eb2244e0599bae2f0541864a9b7cf74f8272972e6bdb18e"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "2fa6655542b90a86aa6a27219aa662bddd1b38a13bbb1f5a35eb49b1920478d6"
 metafile = true
@@ -24,13 +34,28 @@ hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "7b83af5380faba6641a6fdf27e239eba79846f6b66a65da810860a8cb1e86ee4"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "c23a1be7641341478b09c5c4f835b5e024a246f9e8521e92905bcab0d0e8cce0"
 metafile = true
 
 [[files]]
+file = "mods/essentialaddons.pw.toml"
+hash = "a23e04cc3434ffd06e6d655821235dd89f5582f36c60a2441927e0386fb3e840"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
