@@ -14,6 +14,11 @@ hash = "d432f80f3f45a8a54ad6379fef75982173578f746eb5f11cb9368a9ff7e4e2ca"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "e4317c6f16d4143c085e198d82690d660e8d0af7c46cc52bf6c900248b5d718e"
+metafile = true
+
+[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
 metafile = true
@@ -59,8 +64,18 @@ hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "87dea750205910be6e5184ca4cdc3a3f2f439364435408b8e7a1036fdf3c28fc"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
 
 [[files]]
@@ -69,13 +84,43 @@ hash = "38c950bdd47f54d586d1e9ae0c714574885423941ed7799f11b776d2b05ed02f"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "5c2abb405aafd8eba3698b940e1626fe12f12d0e5c998222f341cff1f89b6854"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "590d8c454461493a6a60a6efe9a43bcb94231e7b55c7382f1aa209ad7a572f99"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "ad1110e02639ce1dd8afd73ca567d44fbe592c662d656fee567b6c1f7ced308d"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "a5f622a1035c7aee583c471f49b90ddead222a57213f89664a5e9fc266b5cdf8"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
+metafile = true
+
+[[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "a60ccef90c959893aa4609f93ffbced0c77e92cb6e63e71c502f00e0056b9919"
+metafile = true
+
+[[files]]
+file = "mods/pistorder.pw.toml"
+hash = "d57fd4612d4d518cba81e8c25705ca3f95b501307d07bec7ed2f649b8070e6b6"
 metafile = true
 
 [[files]]
@@ -96,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "05d3bf3084dd6713858d437880a5cc1e4977e1760deaef31300bb25542c4aa70"
 metafile = true
 
 [[files]]
