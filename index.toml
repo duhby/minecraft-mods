@@ -114,18 +114,23 @@ hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
 metafile = true
 
 [[files]]
+file = "mods/more-statistics.pw.toml"
+hash = "abb8788c58a998bf78dffa0bca0c70b7ffe0ae88cb06fb96b72218d63cedca13"
+metafile = true
+
+[[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "a60ccef90c959893aa4609f93ffbced0c77e92cb6e63e71c502f00e0056b9919"
 metafile = true
 
 [[files]]
-file = "mods/pistorder.pw.toml"
-hash = "d57fd4612d4d518cba81e8c25705ca3f95b501307d07bec7ed2f649b8070e6b6"
+file = "mods/placeholder-api.pw.toml"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
 metafile = true
 
 [[files]]
-file = "mods/placeholder-api.pw.toml"
-hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
@@ -141,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "553a41534b30e13212fde52314d81f3f565c565ff8c8e91dbebe49e36ed51afe"
 metafile = true
 
 [[files]]
