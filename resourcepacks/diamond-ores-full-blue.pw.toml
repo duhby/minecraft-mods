@@ -4,13 +4,13 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/d8l3TPRy/versions/6Tlowv3E/Diamond%20Ores%20Full%20Blue.zip"
-hash-format = "sha512"
-hash = "b145252258b517aad984e297a2c6d017b8e1191ed712a3c0fe9a28e574484621ac793b84a3d94846631f148abf6f15aaef1ceb0188b45db5c541ce44e1c1b56c"
-
-[option]
-optional = true
+hash-format = "sha256"
+hash = "190d40b32622730ac1501195e1d19d16a5d835b5d0261315d03291e3fac26047"
 
 [update]
 [update.modrinth]
 mod-id = "d8l3TPRy"
 version = "6Tlowv3E"
+
+[option]
+optional = true

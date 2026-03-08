@@ -4,14 +4,14 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/L4pt5egz/versions/nRYY2Vc3/locator-heads-1.6.4.jar"
-hash-format = "sha512"
-hash = "6e7358c685a087af2320e6c87bc923df1f4b2fec3c752151993597597cdcbea47bfd160e7905bbd5571d3fcd0513d4f2215fd1d728556af4ceae5ca1fb50a044"
-
-[option]
-optional = false
-description = "For seeing where your friends are."
+hash-format = "sha256"
+hash = "88396a95e96cfe9524075224170c6608995ca8556f3ea3d3c2f681725566e82c"
 
 [update]
 [update.modrinth]
 mod-id = "L4pt5egz"
 version = "nRYY2Vc3"
+
+[option]
+optional = false
+description = "For seeing where your friends are."

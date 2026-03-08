@@ -4,13 +4,13 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/RvfAlf4Z/versions/XauQUBeR/Redstone%20Tweaks%202.5.3.zip"
-hash-format = "sha512"
-hash = "03810ceb5a04286ea9e8db6e0918002c11a34eb37d19e128d1c5317c3cda2ac03c50fe567a29baffaba5a4bdb0e59535bf74e7ad20489fc4bb736db596782b39"
-
-[option]
-optional = true
+hash-format = "sha256"
+hash = "9558cff89c2da5c288329417f898ca040c8b213addb964269258da53ac505db1"
 
 [update]
 [update.modrinth]
 mod-id = "RvfAlf4Z"
 version = "XauQUBeR"
+
+[option]
+optional = true

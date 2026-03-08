@@ -4,14 +4,14 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/N6n5dqoA/versions/uoTNUpOT/Axiom-5.3.0-for-MC1.21.11.jar"
-hash-format = "sha512"
-hash = "7a2b8e8238bbb6f2699653140805c6ab0b142365c5b13698f86e8eccf7600f1e01339b489a21a41b38d7d06bcac67b3f872b098018473061c3996c89bf896c56"
-
-[option]
-optional = true
-description = "For creative building tools."
+hash-format = "sha256"
+hash = "1603250a6c10ad0da57bd7f46129b1a91cc323cfad4d4c25f0b35bd82334c1e5"
 
 [update]
 [update.modrinth]
 mod-id = "N6n5dqoA"
 version = "uoTNUpOT"
+
+[option]
+optional = true
+description = "For creative building tools."

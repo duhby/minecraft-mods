@@ -4,14 +4,14 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/idODwPra/versions/NA0x7R2N/spyglass-astronomy-sync-1.0.0%2B1.21.11.jar"
-hash-format = "sha512"
-hash = "4d4e365fcf02963821b16bac8562c706ced199c8ddb2fecb9af189aa34a99d728ae3041d86d1e528a3cf3b2d928120718070b91c63e5b9eb5e19b8b9d4492b3f"
-
-[option]
-optional = true
-description = "Enable if Spyglass Astronomy is enabled (syncs constellations with other players)."
+hash-format = "sha256"
+hash = "325f8c71362112897744332023995f93ff2af2fa0706ca6fa2d2d23c1bbed42e"
 
 [update]
 [update.modrinth]
 mod-id = "idODwPra"
 version = "NA0x7R2N"
+
+[option]
+optional = true
+description = "Enable if Spyglass Astronomy is enabled (syncs constellations with other players)."

@@ -4,14 +4,14 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/OB9VEcWN/versions/Zq0IunV0/coordinatelist-1.8.2-1.21.11.jar"
-hash-format = "sha512"
-hash = "4f590155de18857395f6f0990e382f9aec8c56b8ee9c4ff1b6b5a5edc83dc823c2191fb88fd288ac374c152bcd7dd10e629da66237b3ba015f8495db2d62065c"
-
-[option]
-optional = true
-description = "For keeping track of locations (waypoints)."
+hash-format = "sha256"
+hash = "e092105d38214844bfd1618a59d21c7218cbc3549816e7edc10ee65268a370d9"
 
 [update]
 [update.modrinth]
 mod-id = "OB9VEcWN"
 version = "Zq0IunV0"
+
+[option]
+optional = true
+description = "For keeping track of locations (waypoints)."

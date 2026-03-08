@@ -4,13 +4,13 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/gx67tfSB/versions/aDG6X51K/%21%C2%A7C%C2%A7L%20V%C2%A7FibrantPBR-%C2%A7A%C2%A7LR1.14.zip"
-hash-format = "sha512"
-hash = "77d77076aa08a86ef5e359c90f07bc42573072d970ea967c04bda8a58b9a0503cfa84d38d65330e36364863f26cc777b0e214a9489a8e48485f1c73493379a5f"
-
-[option]
-optional = true
+hash-format = "sha256"
+hash = "1108fd19d85be03fee2a52b2fc525cf6dd3a33cf1a29f3091d969ead88f9571a"
 
 [update]
 [update.modrinth]
 mod-id = "gx67tfSB"
 version = "aDG6X51K"
+
+[option]
+optional = true

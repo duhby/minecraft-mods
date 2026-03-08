@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/XoHTb2Ap/versions/tIJEZz19/calcmod-1.4.3%2Bfabric.1.21.9.jar"
-hash-format = "sha512"
-hash = "d783e84b0fa1b894afdec146c8b0c5bd28dad1e8cab45314d60f04b2fec8a0f6825da500c4a9fac37bee21e1af7b4c6cf5e6748f28a8a108198d9a345307c079"
+hash-format = "sha256"
+hash = "4f8d333ab8c248e1fe43abca49bed63137f27338e1aa0be7271673d7e588cbf8"
 
 [update]
 [update.modrinth]

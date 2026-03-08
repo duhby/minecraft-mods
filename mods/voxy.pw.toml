@@ -4,14 +4,14 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/fxxUqruK/versions/w33aHXHj/voxy-0.2.11-alpha.jar"
-hash-format = "sha512"
-hash = "ab60a41dc022c45f59127c7106611eb6620e6142b87192895c968f7f3bd5eee532f6c6535c8f4259092aca60a783cbc7082c505066151cec9f66e870f38f6cc2"
-
-[option]
-optional = false
-description = "Better graphics (LODs for higher render distances)."
+hash-format = "sha256"
+hash = "63d1747017041b659ef620f589006d079d3574e3124dbdb165f9998533a7920c"
 
 [update]
 [update.modrinth]
 mod-id = "fxxUqruK"
 version = "w33aHXHj"
+
+[option]
+optional = false
+description = "Better graphics (LODs for higher render distances)."

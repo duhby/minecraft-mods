@@ -4,14 +4,14 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/PUe5Asxs/dynamic-fps-3.11.4%2Bminecraft-1.21.11-fabric.jar"
-hash-format = "sha512"
-hash = "e52e4f2aa21bd3d2276499eb60c7ef582147c178119648a8e08fe031371e0145475547dce5e62dc6459d4fba84277f1cf8585a269f80d2490630aae868c892b5"
-
-[option]
-optional = false
-description = "Optimizations (lowers FPS when not focused)."
+hash-format = "sha256"
+hash = "7d0e8fe94d2ac24c1cbd0798b4cb093d57088046d28972a602471a678400b08d"
 
 [update]
 [update.modrinth]
 mod-id = "LQ3K71Q1"
 version = "PUe5Asxs"
+
+[option]
+optional = false
+description = "Optimizations (lowers FPS when not focused)."

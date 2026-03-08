@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EhoUIqvO/versions/azRFfcCb/more-statistics-v2.3.16-mc1.21.11.jar"
-hash-format = "sha512"
-hash = "d5771fcb111c7f4554a901d7dc7dbcec6d8376ea4c5b61b2f1cf6162575b6c9bfa1a8f2cdc657e2653b1cb37683e18fa555f7a72f50d71b1bd6f9a282cfd5d27"
+hash-format = "sha256"
+hash = "5cbfe0bba348a682ed490ad3caed1cf120b8efe3b6026a0327e1048435712140"
 
 [update]
 [update.modrinth]

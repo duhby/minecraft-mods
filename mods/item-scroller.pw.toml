@@ -4,14 +4,14 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/JygyCSA4/versions/FcppMcft/itemscroller-fabric-1.21.11-0.30.2.jar"
-hash-format = "sha512"
-hash = "eb5f89d495465942fe5ae6b167e7258946410446cbd929f0628b4cef04490c5b499310a4a8a8d857f0128068447f432a2c1113558097f9a18bc30fb1afa1d0f7"
-
-[option]
-optional = true
-description = "For quality of life inventory hotkeys."
+hash-format = "sha256"
+hash = "45f706526b7885d02722604cccf48accfab1048887514680d1edf3c26d0b56db"
 
 [update]
 [update.modrinth]
 mod-id = "JygyCSA4"
 version = "FcppMcft"
+
+[option]
+optional = true
+description = "For quality of life inventory hotkeys."

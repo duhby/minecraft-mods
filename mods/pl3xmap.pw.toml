@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/34T8oVNY/versions/kh6fCyFq/Pl3xMap-1.21.11-541.jar"
-hash-format = "sha512"
-hash = "526b56ebf83020673bdd8a0f37174d53b4adfe6c7e4c39cdcf6a2588727caafa707e48889bb6dc92daf2d4ac6f5b029c5d059b42309ea614b7e0f6711629403d"
+hash-format = "sha256"
+hash = "7e74c58b4bead755a20efa7a149fb1ef4a6165fd8f009c4095b4f9c0ebcf4214"
 
 [update]
 [update.modrinth]
