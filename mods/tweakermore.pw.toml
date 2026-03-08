@@ -9,6 +9,7 @@ hash = "714824be207c89512d4216a818940ab592fd11cd5dbd8161643dac03ca55dd7bd85e414d
 
 [option]
 optional = true
+description = "For specific additions to tweakeroo like \"ShulkerBoxPreviewSupportEnderChest\"."
 
 [update]
 [update.modrinth]

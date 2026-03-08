@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qvNsoO3l/lithium-fabric-0
 hash-format = "sha512"
 hash = "2883739303f0bb602d3797cc601ed86ce6833e5ec313ddce675f3d6af3ee6a40b9b0a06dafe39d308d919669325e95c0aafd08d78c97acd976efde899c7810fd"
 
+[option]
+optional = false
+description = "Optimizations (reduces lag)."
+
 [update]
 [update.modrinth]
 mod-id = "gvQqBUqZ"

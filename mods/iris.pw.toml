@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/YL57xq9U/versions/TSXvi2yD/iris-fabric-1.10
 hash-format = "sha512"
 hash = "ca4d3c2a37c1206ac40a825f528dafeaae98bc7cb4d17f1e8b2d427df8b4b106790baaeda60a7d7462784661508fb8278074731a67224bba994a6b52672790a6"
 
+[option]
+optional = false
+description = "Better graphics (adds shader support)."
+
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"

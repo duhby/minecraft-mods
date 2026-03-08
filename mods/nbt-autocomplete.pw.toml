@@ -9,6 +9,7 @@ hash = "06067fc81e229ded877f90c1c75e7bbb758295eac16baad94c726453d39860c64be143e1
 
 [option]
 optional = true
+description = "For better autocomplete in creative mode commands."
 
 [update]
 [update.modrinth]

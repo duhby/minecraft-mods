@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/idODwPra/versions/NA0x7R2N/spyglass-astrono
 hash-format = "sha512"
 hash = "4d4e365fcf02963821b16bac8562c706ced199c8ddb2fecb9af189aa34a99d728ae3041d86d1e528a3cf3b2d928120718070b91c63e5b9eb5e19b8b9d4492b3f"
 
+[option]
+optional = true
+description = "Enable if Spyglass Astronomy is enabled (syncs constellations with other players)."
+
 [update]
 [update.modrinth]
 mod-id = "idODwPra"

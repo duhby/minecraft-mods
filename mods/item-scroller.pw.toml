@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/JygyCSA4/versions/FcppMcft/itemscroller-fab
 hash-format = "sha512"
 hash = "eb5f89d495465942fe5ae6b167e7258946410446cbd929f0628b4cef04490c5b499310a4a8a8d857f0128068447f432a2c1113558097f9a18bc30fb1afa1d0f7"
 
+[option]
+optional = true
+description = "For quality of life inventory hotkeys."
+
 [update]
 [update.modrinth]
 mod-id = "JygyCSA4"

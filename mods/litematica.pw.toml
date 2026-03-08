@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/7LGBHMu9/litematica-fabri
 hash-format = "sha512"
 hash = "f2e17872c19762dcc8413bfe08e4cb8423c936fabf3e4191ed6c2b14725d4e49dce26a733b98d3847efbfb1dc5b30a850988ef67f081bea105cf3b31a21986de"
 
+[option]
+optional = true
+description = "For viewing schematics to help with building."
+
 [update]
 [update.modrinth]
 mod-id = "bEpr0Arc"

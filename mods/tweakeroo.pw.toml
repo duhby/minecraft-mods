@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/t5wuYk45/versions/fpfkwRe2/tweakeroo-fabric
 hash-format = "sha512"
 hash = "5c980477ed58f1952781fa89def378309d6ffc9be16abcfbd4b1f92217d929db3d465ab2cd373535c9ea8e578304e731321d480a1fa7aa3a1b044e0f673f3e0e"
 
+[option]
+optional = false
+description = "Enable tweakEmptyShulkerBoxesStack to prevent inventory desync with the server."
+
 [update]
 [update.modrinth]
 mod-id = "t5wuYk45"

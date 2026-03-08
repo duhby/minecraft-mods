@@ -9,6 +9,7 @@ hash = "7a2b8e8238bbb6f2699653140805c6ab0b142365c5b13698f86e8eccf7600f1e01339b48
 
 [option]
 optional = true
+description = "For creative building tools."
 
 [update]
 [update.modrinth]
