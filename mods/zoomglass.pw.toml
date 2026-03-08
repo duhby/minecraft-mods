@@ -1,0 +1,17 @@
+name = "Zoomglass"
+filename = "zoomglass-1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jRrJYVVU/versions/vPzAxQ8s/zoomglass-1.6.jar"
+hash-format = "sha512"
+hash = "eecf602fa8a71031570cc2423b8e3643941519c54808b3d059c340e5290dba98fbc2ba527944f807d3839a4db868728b37247356c37c18e260ca93e1b1d0ae1e"
+
+[option]
+optional = true
+description = "Adds a zoom hotkey for using a spyglass that's in your inventory."
+
+[update]
+[update.modrinth]
+mod-id = "jRrJYVVU"
+version = "vPzAxQ8s"

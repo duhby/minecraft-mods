@@ -1,0 +1,13 @@
+name = "EssentialAddons"
+filename = "EssentialAddons-2.3.4+1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3WQaouc1/versions/VB8qluZh/EssentialAddons-2.3.4%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "a73504d2567fa410f8817debddd1b798a85464583a7b22864ebec1e9cae301fe189197e63a50d2f6d7df13384031289ae99f5a6c384bdfe2ed8936b76fd4ec7d"
+
+[update]
+[update.modrinth]
+mod-id = "3WQaouc1"
+version = "VB8qluZh"

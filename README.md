@@ -1,69 +1,220 @@
-# Minecraft Resources
-
-## Data Packs
-- [Anti Enderman Grief](https://vanillatweaks.net/picker/datapacks/)
-- [Unlock All Recipes](https://vanillatweaks.net/picker/datapacks/)
-
-## Resource Packs
-- [3D Default](https://modrinth.com/resourcepack/3d-default) (Custom no-glass version for better Continuity support)
-- [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
-- [Ender Dragon Wings](https://modrinth.com/resourcepack/ender-dragon-wings) (Custom mcmeta.pack_format updated version)
-- [Endhanced Frames](https://modrinth.com/resourcepack/endhanced-frames)
-- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
-- [Sus Sand and Gravel](https://vanillatweaks.net/picker/resource-packs/)
-
-## Shader Packs
-- [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
-- [Continuum 2.1](https://continuum.graphics/continuum-shaders/) (Currently not compatible with 1.20.x)
-- [Continuum RT](https://continuum.graphics/continuum-rt/) (Currently not compatible with 1.20.x)
+# duhby's tmc (not distributed)
 
 ## Mods
-- [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
-- [Better Advancements](https://modrinth.com/mod/better-advancements)
-- [bad packets](https://modrinth.com/mod/badpackets)
-- [Better Statistics Screen](https://modrinth.com/mod/better-stats)
-- [Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
-- [Bobby](https://modrinth.com/mod/bobby)
-- [Borderless Mining](https://modrinth.com/mod/borderless-mining)
-- [Carpet](https://modrinth.com/mod/carpet)
-- [CIT Resewn](https://modrinth.com/mod/cit-resewn)
-- [Cloth Config API](https://modrinth.com/mod/cloth-config)
-- [Continuity](https://modrinth.com/mod/continuity)
-- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
-- [Entity Culling](https://modrinth.com/mod/entityculling)
-- [Fastload](https://modrinth.com/mod/fastload)
-- [FerriteCore](https://modrinth.com/mod/ferrite-core)
-- [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) (Required by Pick Up Notifier)
-- [Indium](https://modrinth.com/mod/indium)
-- [Iris Shaders](https://modrinth.com/mod/iris)
-- [Isometric Renders](https://modrinth.com/mod/isometric-renders)
-- [Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller)
-- [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
-- [Lithium](https://modrinth.com/mod/lithium)
-- [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) (Required by Tweakeroo, MiniHUD, and others)
-- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
-- [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)
-- [Model Gap Fix](https://modrinth.com/mod/modelfix)
-- [Mod Menu](https://modrinth.com/mod/modmenu)
-- [More Culling](https://modrinth.com/mod/moreculling)
-- [Motion Blur](https://modrinth.com/mod/motionblur)
-- [Perspektive](https://modrinth.com/mod/perspektive)
-- [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier)
-- [PuzzlesLib](https://modrinth.com/mod/puzzles-lib/version/v8.0.15-1.20.1-Fabric) (Required by Pick Up Notifier)
-- [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl)
-- [Quilt Kotlin Libraries (QKL)](https://modrinth.com/mod/qkl)
-- [Quilt Loading Screen](https://modrinth.com/mod/quilt-loading-screen)
-- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
-- [ReplayMod](https://modrinth.com/mod/replaymod)
-- [Sodium Extra](https://modrinth.com/mod/sodium-extra)
-- [Sodium](https://modrinth.com/mod/sodium)
-- [Spyglass Astronomy](https://modrinth.com/mod/spyglass-astronomy)
-- [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
-- [ThreadTweak](https://modrinth.com/mod/threadtweak)
-- [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
-- [Wavey Capes](https://modrinth.com/mod/wavey-capes)
-- [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
-- [WTHIT](https://modrinth.com/mod/wthit)
-- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
-- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
-- [Zoomglass](https://modrinth.com/mod/zoomglass)
+
+### Client
+
+- Mods
+  - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) [1\.10\.2]
+  - [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) [0\.4\.8\.51]
+  - [CList](https://modrinth.com/mod/OB9VEcWN) [1\.8\.2\-1\.21\.11]
+  - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [1\.2\.1]
+  - [Cloth Config API](https://modrinth.com/mod/9s6osm5g) [21\.11\.153\-fabric]
+  - [Continuity](https://modrinth.com/mod/1IjD5062) [3\.0\.1\-beta\.1\+1\.21\.11]
+  - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3\.11\.4]
+  - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.9\.5]
+  - [Fabric API](https://modrinth.com/mod/P7dR8mSH) [0\.141\.3\+1\.21\.11]
+  - [Fast IP Ping](https://modrinth.com/mod/9mtu0sUO) [1\.0\.8]
+  - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1\.14\.2\+1\.21\.11]
+  - [Iris](https://modrinth.com/mod/YL57xq9U) [1\.10\.6\+mc1\.21\.11]
+  - [Item Scroller](https://modrinth.com/mod/JygyCSA4) [0\.30\.2]
+  - [Litematica](https://modrinth.com/mod/bEpr0Arc) [0\.26\.0]
+  - [Locator Heads](https://modrinth.com/mod/L4pt5egz) [1\.6\.4]
+  - [MaLiLib](https://modrinth.com/mod/GcWjdA9I) [0\.27\.6]
+  - [MiniHUD](https://modrinth.com/mod/UMxybHE8) [0\.38\.3]
+  - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [17\.0\.0\-beta\.2]
+  - [NBT Autocomplete](https://modrinth.com/mod/UR0ocuEt) [1\.3\.14]
+  - [Placeholder API](https://modrinth.com/mod/eXts2L7r) [2\.8\.2\+1\.21\.10]
+  - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) [0\.8\.3\+mc1\.21\.11]
+  - [Sodium](https://modrinth.com/mod/AANobbMI) [0\.8\.6\+mc1\.21\.11]
+  - [Spyglass Astronomy](https://modrinth.com/mod/EdBSdqge) [1\.0\.20\-mc1\.21\.11]
+  - [Status Effect Bars](https://modrinth.com/mod/x02cBj9Y) [1\.0\.10]
+  - [Tweakeroo](https://modrinth.com/mod/t5wuYk45) [0\.27\.5]
+  - [Voxy](https://modrinth.com/mod/fxxUqruK) [0\.2\.11\-alpha]
+  - [Zoomglass](https://modrinth.com/mod/jRrJYVVU) [1\.6]
+- Resource Packs
+  - [Diamond Ores Full Blue](https://modrinth.com/project/d8l3TPRy) [1\.0\.0]
+  - [Even Better Enchants](https://modrinth.com/project/6udpuGCH) [3\-1\.21\.5]
+  - [Redstone Tweaks](https://modrinth.com/project/RvfAlf4Z) [2\.5\.3]
+  - [SPBR](https://modrinth.com/project/aNcOVoD7) [19\.6]
+  - [VibrantPBR](https://modrinth.com/project/gx67tfSB) [1\.14]
+
+### Client and Server
+
+- Mods
+  - [Axiom](https://modrinth.com/mod/N6n5dqoA) [5\.3\.0]
+  - [FerriteCore](https://modrinth.com/mod/uXXizFIs) [8\.2\.0]
+  - [Jade](https://modrinth.com/mod/nvQzSEkH) [21\.1\.2\+fabric]
+  - [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.21\.3\+mc1\.21\.11]
+  - [More Statistics](https://modrinth.com/mod/EhoUIqvO) [2\.3\.16]
+  - [ScalableLux](https://modrinth.com/mod/Ps1zyz6x) [0\.1\.6\+fabric\.c25518a]
+  - [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) [1\.21\.11\-2\.6\.12]
+  - [Spyglass Astronomy Sync](https://modrinth.com/mod/idODwPra) [1\.0\.0\+1\.21\.11]
+  - [Syncmatica](https://modrinth.com/mod/bfneejKo) [0\.3\.18]
+  - [ThreadTweak](https://modrinth.com/mod/vSEH1ERy) [0\.1\.8\+mc1\.21\.11]
+
+### Server
+
+- Mods
+  - [CalcMod](https://modrinth.com/mod/XoHTb2Ap) [1\.4\.3\+fabric\.1\.21\.9]
+  - [Carpet Extra](https://github.com/gnembon/carpet-extra/pull/365) [1\.4\.177]
+  - [Carpet](https://modrinth.com/mod/TQTTVgYE) [1\.4\.194\+v251223]
+  - [Essential Addons](https://modrinth.com/mod/3WQaouc1) [2\.3\.4\+mc1\.21\.11]
+  - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1\.13\.9\+kotlin\.2\.3\.10]
+  - [Pl3xMap](https://modrinth.com/project/34T8oVNY) [1\.21\.11\-541]
+- Data Packs (Install Manually)
+  - Gameplay
+    - [Anti Enderman Grief](https://vanillatweaks.net/picker/datapacks/)
+    - [Unlock All Recipes](https://vanillatweaks.net/picker/datapacks/)
+  - World
+    - [Compatibility Layer](https://modrinth.com/project/GDnm1VHj)
+    - [Blooming Biosphere](https://modrinth.com/project/Ds9FyUc7)
+    - [Tectonic](https://modrinth.com/project/lWDHr9jE)
+    - [Nullscape](https://modrinth.com/project/LPjGiSO4)
+
+## Settings
+
+### Client
+
+Get to mod settings with esc->mods or the mods button on the title screen
+
+#### Settings you should definitely change
+
+- Tweakeroo
+  - tweakEmptyShulkerBoxesStack true
+- Resource Packs
+  - Glass Pane Culling Fix
+  - Even Better Enchants
+  - **One of** Redstone Tweaks, SPBR, or VibrantPBR (or nothing)
+- Video Settings
+  - Sodium
+    - Render Distance 16
+    - Simulation Distance 16 (doesn't have an effect on servers)
+    - GUI Scale something reasonable (which is usually not the default if you have a big monitor)
+    - Fullscreen on
+    - VSync off
+    - Max Framerate same as your monitor
+  - Voxy
+    - Lower render distance from 512 if your PC can't handle it
+  - Iris
+    - If using a PBR resource pack with shaders enabled
+      - In PBR Config in shader settings
+        - Turn off Integrated PBR->Generated \*
+        - In Resourcepack PBR turn all on and set material format to labPBR 1.3
+          - Set Parallax Config->Parallax Samples to
+            - SPBR: 64
+            - VibrantPBR: 128
+- 3d Skin Layers
+  - If there are issues with shader shadows and colors, enable the fix in settings
+- Litematica
+  - easyPlaceProtocol 2
+- Spyglass Astronomy
+  - Some shaders don't support it, so disable them while using
+
+#### Settings that you might find useful
+
+Ignore a mod section if you didn't enable that mod
+
+- Essential Addons
+  - Subscribe to careful break using the /subscribe command
+- Tweakeroo
+  - openConfigGui NONE
+  - tweakPrintDeathCoordinates true
+  - tweakFreeCamera true
+  - tweakShulkerBoxDisplay true
+  - tweakFlexibleBlockPlacement true
+  - tweakAccurateBlockPlacement true (requires tweakFlexibleBlockPlacement)
+  - disableOffhandRendering true
+  - tweakZoom true (if you'd rather use this instead of zoomglass)
+  - disableNetherFog true
+  - disableRenderDistanceFog true
+  - disablePortalGuiClosing true
+  - tweakFlySpeed true (set flyPresetX hotkey to something like j+1, j+2, etc) (set flySpeedPresetX to whatever)
+  - tweakMapPreview true
+  - tweakBundleDisplay true
+  - shulkerDisplayEnterChest true (might not work on multiplayer)
+  - tweakGammaOverride G (might not do anything with shaders enabled)
+- Item Scroller
+  - openConfigGui NONE
+- Litematica
+  - openGuiSettings NONE
+  - openGuiMainMenu I (M conflicts with voice chat)
+- malilib
+  - openGuiConfigs NONE
+- MiniHUD
+  - openConfigGui NONE
+  - Generic
+    - mainRenderingToggle H (default)
+    - fontScale adjust if necessary
+    - axolotlTooltips true
+    - beeTooltips true
+    - disableVanillaBeeTooltips true
+    - foodTooltips true
+    - honeyTooltips true
+    - etc (there are a lot of useful options)
+  - Info Lines
+    - infoFPS true
+    - infoTimeIRL false
+    - infoCoordinates false (block position is better)
+    - infoBlockPosition true
+    - infoServerTPS (or hold tab to see tps and mobcaps)
+- Options->Controls->Keybinds
+  - Axiom
+    - Unbind Toggle Replace Mode
+  - CList Keybinds
+    - Unbind Add Waypoint
+    - Open Waypoints Menu P (M conflicts with voice chat)
+    - Unbind Toggle Waypoints Visibility
+  - Miscellaneous
+    - Unbind Quick Actions
+  - Multiplayer
+    - Unbind Social Interactions Screen
+  - Inventory
+    - Quick Spyglass Z (default) (requires zoomglass mod)
+  - Creative Mode
+    - Unbind everything
+  - Iris
+    - Unbind Reload Shaders
+    - Unbind Shaderpack Selection Screen
+  - Jade
+    - Unbind everything
+  - Voice Chat
+    - Unbind Disable Voice Chat
+    - Unbind Hide Voice Chat Icons
+- Options->Controls
+  - Sprint Window OFF (use a keybind instead)
+  - Mouse Settings
+    - Lower the sensitivity it's better
+    - Scroll Sensitivity 0.01 if you want to force yourself to use hotkeys
+- Options->Music and Sounds
+  - Music OFF
+- Video Settings
+  - Sodium Extra
+    - Advanced Item Tooltips on
+
+### Server
+
+- Carpet Extra
+  - accurateBlockPlacement true
+- Essential Addons
+  - cakeAlwaysEat true
+  - commandCameraMode true
+  - cameraModeSurvivalRestrictions true
+  - essentialCarefulBreak true
+- Carpet
+  - allowSpawningOfflinePlayers false
+  - cleanLogs true
+  - commandDistance false (in favor of calcmod)
+  - ctrlQCraftingFix true
+  - defaultLoggers mobcaps,tps
+  - flippinCactus true
+  - lightningKillsDropsFix true
+  - missingTools true
+  - onePlayerSleeping true
+  - placementRotationFix true
+  - stackableShulkerBoxes true
+- Lithium
+  - https://github.com/CaffeineMC/lithium/issues/521#issuecomment-2288489054
+- Pl3xMap
+  - config.yml
+    - settings.internal-webserver.port: 26676 (minecraft is 25565, svc is 24454)
