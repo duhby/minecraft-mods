@@ -117,7 +117,7 @@ Get to mod settings with esc->mods or the mods button on the title screen
 
 Ignore a mod section if you didn't enable that mod
 
-- Essential Addons
+- Essential Addons (server mod)
   - Subscribe to careful break using `/subscribe toggle essential-addons:careful_break`
 - Tweakeroo
   - openConfigGui NONE
@@ -161,7 +161,7 @@ Ignore a mod section if you didn't enable that mod
     - infoTimeIRL false
     - infoCoordinates false (block position is better)
     - infoBlockPosition true
-    - infoServerTPS (use `/log tps` if you enable this)
+    - infoServerTPS
     - infoBiomeName
 - Options->Controls->Keybinds
   - Axiom
@@ -197,9 +197,6 @@ Ignore a mod section if you didn't enable that mod
 - Video Settings
   - Sodium Extra
     - Advanced Item Tooltips on
-- Carpet (if you want to see these in tab or if you're showing them in minihud)
-  - `/log mobcaps`
-  - `/log tps`
 
 ### Server
 
@@ -213,6 +210,7 @@ Ignore a mod section if you didn't enable that mod
   - cleanLogs true
   - commandDistance false (in favor of calcmod)
   - ctrlQCraftingFix true
+  - defaultLoggers mobcaps,tps
   - flippinCactus true
   - lightningKillsDropsFix true
   - missingTools true
