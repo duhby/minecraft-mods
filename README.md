@@ -125,7 +125,7 @@ Ignore a mod section if you didn't enable that mod
 - Tweakeroo
   - openConfigGui NONE
   - tweakPrintDeathCoordinates true (not necessary if you have CList)
-  - tweakFreeCamera true
+  - tweakFreeCamera Y
   - tweakShulkerBoxDisplay true
   - accuratePlacementProtocolMode v3 (servux)
   - tweakFlexibleBlockPlacement true
