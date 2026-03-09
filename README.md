@@ -112,7 +112,7 @@ Get to mod settings with esc->mods or the mods button on the title screen
 - 3d Skin Layers
   - If there are issues with shader shadows and colors, enable the fix in settings
 - Litematica
-  - easyPlaceProtocol 2
+  - easyPlaceProtocol 3
 - Spyglass Astronomy
   - Some shaders don't support it, so disable them while using
 
