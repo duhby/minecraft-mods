@@ -161,7 +161,8 @@ Ignore a mod section if you didn't enable that mod
     - infoTimeIRL false
     - infoCoordinates false (block position is better)
     - infoBlockPosition true
-    - infoServerTPS (or hold tab to see tps and mobcaps)
+    - infoServerTPS (use `/log tps` if you enable this)
+    - infoBiomeName
 - Options->Controls->Keybinds
   - Axiom
     - Unbind Toggle Replace Mode
