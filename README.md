@@ -124,7 +124,7 @@ Ignore a mod section if you didn't enable that mod
   - Subscribe to careful break using `/subscribe toggle essential-addons:careful_break`
 - Tweakeroo
   - openConfigGui NONE
-  - tweakPrintDeathCoordinates true
+  - tweakPrintDeathCoordinates true (not necessary if you have CList)
   - tweakFreeCamera true
   - tweakShulkerBoxDisplay true
   - accuratePlacementProtocolMode v3 (servux)
