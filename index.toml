@@ -6,6 +6,11 @@ hash = "48597fbcfe2274e8fa4d3897196847a68dbf076b2ebf36e2d976d40c148b04a4"
 metafile = true
 
 [[files]]
+file = "mods/adventure-platform-mod.pw.toml"
+hash = "1bbb367274aa58691501194911964ed9c23bb01e216102b88906cdfda78180c6"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "d254858b2f3666e4281dc97f2eeced96f189ee9d835ff37177db2edf22a84a8c"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "42bb28fa125153feebac7418fb6c59e8016a7ab9b7a239b59abb1c9db2e87286"
+metafile = true
+
+[[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "d56276b1da625fd53afe0e6e736b5c3a2983303d4fd2ce687f2364e8ae4c3dab"
 metafile = true
 
 [[files]]

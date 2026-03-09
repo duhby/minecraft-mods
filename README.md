@@ -56,6 +56,8 @@
 ### Server
 
 - Mods
+  - [Adventure Platform Mod](https://modrinth.com/mod/O5VsIpQY) [6\.8\.0]
+  - [Better Fabric Console](https://modrinth.com/mod/Y8o1j1Sf) [1\.2\.9]
   - [CalcMod](https://modrinth.com/mod/XoHTb2Ap) [1\.4\.3\+fabric\.1\.21\.9]
   - [Carpet](https://modrinth.com/mod/TQTTVgYE) [1\.4\.194\+v251223]
   - [Essential Addons](https://modrinth.com/mod/3WQaouc1) [2\.3\.4\+mc1\.21\.11]
