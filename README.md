@@ -212,7 +212,6 @@ Ignore a mod section if you didn't enable that mod
   - allowSpawningOfflinePlayers false
   - cleanLogs true
   - commandDistance false (in favor of calcmod)
-  - ctrlQCraftingFix true
   - defaultLoggers mobcaps,tps
   - flippinCactus true
   - lightningKillsDropsFix true
