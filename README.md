@@ -66,13 +66,16 @@
   - [Servux](https://modrinth.com/mod/zQhsx8KF) [0\.9\.2]
 - Data Packs (Install Manually)
   - Gameplay
-    - [Anti Enderman Grief](https://vanillatweaks.net/picker/datapacks/)
-    - [Unlock All Recipes](https://vanillatweaks.net/picker/datapacks/)
+    - [AFK Display](https://vanillatweaks.net/picker/datapacks/) [1\.1\.15]
+    - [Anti Enderman Grief](https://vanillatweaks.net/picker/datapacks/) [1\.1\.15]
+    - [More Mob Heads](https://vanillatweaks.net/picker/datapacks/) [2\.18\.0]
+    - [Player Head Drops](https://vanillatweaks.net/picker/datapacks/) [1\.1\.15]
+    - [Unlock All Recipes](https://vanillatweaks.net/picker/datapacks/) [2\.0\.16]
   - World
-    - [Compatibility Layer](https://modrinth.com/project/GDnm1VHj)
-    - [Blooming Biosphere](https://modrinth.com/project/Ds9FyUc7)
-    - [Tectonic](https://modrinth.com/project/lWDHr9jE)
-    - [Nullscape](https://modrinth.com/project/LPjGiSO4)
+    - [Blooming Biosphere](https://modrinth.com/project/Ds9FyUc7) [1\.1\.12]
+    - [Compatibility Layer](https://modrinth.com/project/GDnm1VHj) [1\.1]
+    - [Nullscape](https://modrinth.com/project/LPjGiSO4) [1\.2\.16]
+    - [Tectonic](https://modrinth.com/project/lWDHr9jE) [3\.0\.18]
 
 ## Settings
 
@@ -220,3 +223,5 @@ Ignore a mod section if you didn't enable that mod
 - Pl3xMap
   - config.yml
     - settings.internal-webserver.port: 26676 (minecraft is 25565, svc is 24454)
+- Vanilla
+  - gamerule fire_spread_radius_around_player 0
