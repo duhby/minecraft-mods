@@ -57,11 +57,11 @@
 
 - Mods
   - [CalcMod](https://modrinth.com/mod/XoHTb2Ap) [1\.4\.3\+fabric\.1\.21\.9]
-  - [Carpet Extra](https://github.com/gnembon/carpet-extra/pull/365) [1\.4\.177]
   - [Carpet](https://modrinth.com/mod/TQTTVgYE) [1\.4\.194\+v251223]
   - [Essential Addons](https://modrinth.com/mod/3WQaouc1) [2\.3\.4\+mc1\.21\.11]
   - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1\.13\.9\+kotlin\.2\.3\.10]
   - [Pl3xMap](https://modrinth.com/project/34T8oVNY) [1\.21\.11\-541]
+  - [Servux](https://modrinth.com/mod/zQhsx8KF) [0\.9\.2]
 - Data Packs (Install Manually)
   - Gameplay
     - [Anti Enderman Grief](https://vanillatweaks.net/picker/datapacks/)
@@ -116,14 +116,16 @@ Get to mod settings with esc->mods or the mods button on the title screen
 Ignore a mod section if you didn't enable that mod
 
 - Essential Addons
-  - Subscribe to careful break using the /subscribe command
+  - Subscribe to careful break using `/subscribe toggle essential-addons:careful_break`
 - Tweakeroo
   - openConfigGui NONE
   - tweakPrintDeathCoordinates true
   - tweakFreeCamera true
   - tweakShulkerBoxDisplay true
+  - accuratePlacementProtocolMode v3 (servux)
   - tweakFlexibleBlockPlacement true
-  - tweakAccurateBlockPlacement true (requires tweakFlexibleBlockPlacement)
+  - flexibleBlockPlacementOffset X
+  - flexibleBlockPlacementRotation LEFT_ALT (default)
   - disableOffhandRendering true
   - tweakZoom true (if you'd rather use this instead of zoomglass)
   - disableNetherFog true
@@ -161,6 +163,7 @@ Ignore a mod section if you didn't enable that mod
 - Options->Controls->Keybinds
   - Axiom
     - Unbind Toggle Replace Mode
+    - Context Menu B (left alt conflicts with tweakeroo flexible block placement)
   - CList Keybinds
     - Unbind Add Waypoint
     - Open Waypoints Menu P (M conflicts with voice chat)
@@ -191,11 +194,12 @@ Ignore a mod section if you didn't enable that mod
 - Video Settings
   - Sodium Extra
     - Advanced Item Tooltips on
+- Carpet (if you want to see these in tab or if you're showing them in minihud)
+  - `/log mobcaps`
+  - `/log tps`
 
 ### Server
 
-- Carpet Extra
-  - accurateBlockPlacement true
 - Essential Addons
   - cakeAlwaysEat true
   - commandCameraMode true
@@ -206,15 +210,12 @@ Ignore a mod section if you didn't enable that mod
   - cleanLogs true
   - commandDistance false (in favor of calcmod)
   - ctrlQCraftingFix true
-  - defaultLoggers mobcaps,tps
   - flippinCactus true
   - lightningKillsDropsFix true
   - missingTools true
   - onePlayerSleeping true
   - placementRotationFix true
   - stackableShulkerBoxes true
-- Lithium
-  - https://github.com/CaffeineMC/lithium/issues/521#issuecomment-2288489054
 - Pl3xMap
   - config.yml
     - settings.internal-webserver.port: 26676 (minecraft is 25565, svc is 24454)

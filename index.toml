@@ -21,11 +21,6 @@ hash = "2f36b52c9e671acb4503f321c118b3fa2566b2a96ae9d1139b23b9eb76dfba25"
 metafile = true
 
 [[files]]
-file = "mods/carpet-extra.pw.toml"
-hash = "cf18a8121d122790dc428a867b61409f4a472cfcc1f69aab3a7bb750a65c9f49"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "2d8ce0548b248eff1542df8e6f38e537114be69129da726cf041f3a3393d6851"
 metafile = true
@@ -158,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "0ac074553be5dbf6b13231a31e94c8180fb35d669547ad90fe2effc49c6b827b"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "7e5ee84c0ffd1d2a8ac5b05bade2a27fdc2e73caa431f7860ec440e904c66ae0"
 metafile = true
 
 [[files]]

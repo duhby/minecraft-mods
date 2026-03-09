@@ -1,8 +1,0 @@
-name = "Carpet Extra"
-filename = "carpet-extra-1.21.11-1.4.177.jar"
-side = "server"
-
-[download]
-url = "http://cdn.duhby.dev/carpet-extra-1.21.11-1.4.177.jar"
-hash-format = "sha256"
-hash = "3e45bd255dfa388fbca4992eb5e07e7cd1ccb3efff33676a5135b8e96a44cac9"
