@@ -216,7 +216,6 @@ Ignore a mod section if you didn't enable that mod
   - flippinCactus true
   - lightningKillsDropsFix true
   - missingTools true
-  - onePlayerSleeping true
   - placementRotationFix true
   - stackableShulkerBoxes true
 - Pl3xMap
@@ -224,3 +223,7 @@ Ignore a mod section if you didn't enable that mod
     - settings.internal-webserver.port: 26676 (minecraft is 25565, svc is 24454)
 - Vanilla
   - gamerule fire_spread_radius_around_player 0
+  - gamerule players_sleeping_percentage 50
+  - gamerule player_movement_check false
+  - gamerule elytra_movement_check false
+  - gamerule spectators_generate_chunks false
