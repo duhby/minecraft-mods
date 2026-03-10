@@ -113,7 +113,7 @@ Get to mod settings with esc->mods or the mods button on the title screen
 - 3d Skin Layers
   - If there are issues with shader shadows and colors, enable the fix in settings
 - Litematica
-  - easyPlaceProtocol 2
+  - easyPlaceProtocol 3
 - Spyglass Astronomy
   - Some shaders don't support it, so disable them while using
 
@@ -125,8 +125,8 @@ Ignore a mod section if you didn't enable that mod
   - Subscribe to careful break using `/subscribe toggle essential-addons:careful_break`
 - Tweakeroo
   - openConfigGui NONE
-  - tweakPrintDeathCoordinates true
-  - tweakFreeCamera true
+  - tweakPrintDeathCoordinates true (not necessary if you have CList)
+  - tweakFreeCamera Y
   - tweakShulkerBoxDisplay true
   - accuratePlacementProtocolMode v3 (servux)
   - tweakFlexibleBlockPlacement true
@@ -166,7 +166,7 @@ Ignore a mod section if you didn't enable that mod
     - infoCoordinates false (block position is better)
     - infoBlockPosition true
     - infoServerTPS
-    - infoBiomeName
+    - infoBiome
 - Options->Controls->Keybinds
   - Axiom
     - Unbind Toggle Replace Mode
