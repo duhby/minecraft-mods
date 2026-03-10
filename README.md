@@ -165,7 +165,7 @@ Ignore a mod section if you didn't enable that mod
     - infoCoordinates false (block position is better)
     - infoBlockPosition true
     - infoServerTPS
-    - infoBiomeName
+    - infoBiome
 - Options->Controls->Keybinds
   - Axiom
     - Unbind Toggle Replace Mode
