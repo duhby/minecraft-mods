@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fabric-console.pw.toml"
-hash = "ce675e8705ed97ef75b805c8b7ce3d28f9aab5852704bb7596c35f0decbf6526"
+hash = "d56276b1da625fd53afe0e6e736b5c3a2983303d4fd2ce687f2364e8ae4c3dab"
 metafile = true
 
 [[files]]
