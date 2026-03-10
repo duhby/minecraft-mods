@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/adventure-platform-mod.pw.toml"
-hash = "1bbb367274aa58691501194911964ed9c23bb01e216102b88906cdfda78180c6"
+hash = "559ba5cd9ba4e7572fe0d771a8e9cc0393f6224b36097c2196b9de9bf0811a83"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fabric-console.pw.toml"
-hash = "d56276b1da625fd53afe0e6e736b5c3a2983303d4fd2ce687f2364e8ae4c3dab"
+hash = "ce675e8705ed97ef75b805c8b7ce3d28f9aab5852704bb7596c35f0decbf6526"
 metafile = true
 
 [[files]]
@@ -58,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "79aba2b0d3e9e8be12f80530fce53e8a7afb36e041cf0fb660f20e5bb5d62096"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "3ffdd9c3e396bebf6ae85e406ddc146424cd2c43e34e2cc46262ab0e0d0b34ab"
 metafile = true
 
 [[files]]

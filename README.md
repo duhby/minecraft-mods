@@ -43,6 +43,7 @@
 
 - Mods
   - [Axiom](https://modrinth.com/mod/N6n5dqoA) [5\.3\.0]
+  - [Elytra Trims](https://modrinth.com/mod/XpzGz7KD) [4\.6\.2\+1\.21\.11]
   - [FerriteCore](https://modrinth.com/mod/uXXizFIs) [8\.2\.0]
   - [Jade](https://modrinth.com/mod/nvQzSEkH) [21\.1\.2\+fabric]
   - [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.21\.3\+mc1\.21\.11]
