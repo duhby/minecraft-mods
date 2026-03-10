@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/adventure-platform-mod.pw.toml"
-hash = "559ba5cd9ba4e7572fe0d771a8e9cc0393f6224b36097c2196b9de9bf0811a83"
+hash = "4d59a19a9b04632472b59da9bd4b1a41cc667f7cc061e07a82ccf588904bef54"
 metafile = true
 
 [[files]]
