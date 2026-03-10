@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/adventure-platform-mod.pw.toml"
-hash = "4d59a19a9b04632472b59da9bd4b1a41cc667f7cc061e07a82ccf588904bef54"
+hash = "8be8c0ebbdcd044b0bf3318ed5a1a0444a289c0cbe5c7e812adaddbb9d4af27e"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fabric-console.pw.toml"
-hash = "d56276b1da625fd53afe0e6e736b5c3a2983303d4fd2ce687f2364e8ae4c3dab"
+hash = "39dfd442f0536e4c6acaf6873c6c8a6d7222d5c7b2858bf95e73f7a3f1452da3"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "3ffdd9c3e396bebf6ae85e406ddc146424cd2c43e34e2cc46262ab0e0d0b34ab"
+hash = "1bbbf219802f56b8892d9f03ad6fdb8538eaeb7548547bd5955a880454bd6acb"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "7e5ee84c0ffd1d2a8ac5b05bade2a27fdc2e73caa431f7860ec440e904c66ae0"
+hash = "c2754cdcc22cf7f69037985424ea4a61f0b55fa63cd84d7f5894bac412b05da8"
 metafile = true
 
 [[files]]

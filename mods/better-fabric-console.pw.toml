@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Y8o1j1Sf/versions/6aIKl5wy/better-fabric-console-mc1.21.11-1.2.9.jar"
-hash-format = "sha512"
-hash = "427247dafd99df202ee10b4bf60ffcbbecbabfadb01c167097ffb5b85670edb811f4d061c2551be816295cbbc6b8ec5ec464c14a6ff41912ef1f6c57b038d320"
+hash-format = "sha256"
+hash = "fac93313fea75b0517440d675b47d9359504cda9676964346add3398a7707e38"
 
 [update]
 [update.modrinth]
