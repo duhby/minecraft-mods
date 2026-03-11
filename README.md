@@ -46,7 +46,7 @@
   - [Elytra Trims](https://modrinth.com/mod/XpzGz7KD) [4\.6\.2\+1\.21\.11]
   - [FerriteCore](https://modrinth.com/mod/uXXizFIs) [8\.2\.0]
   - [Jade](https://modrinth.com/mod/nvQzSEkH) [21\.1\.2\+fabric]
-  - [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.21\.3\+mc1\.21\.11]
+  - [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.21\.4\+mc1\.21\.11]
   - [More Statistics](https://modrinth.com/mod/EhoUIqvO) [2\.3\.16]
   - [ScalableLux](https://modrinth.com/mod/Ps1zyz6x) [0\.1\.6\+fabric\.c25518a]
   - [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) [1\.21\.11\-2\.6\.12]
