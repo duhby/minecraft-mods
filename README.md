@@ -72,6 +72,7 @@
     - [More Mob Heads](https://vanillatweaks.net/picker/datapacks/) [2\.18\.0]
     - [Player Head Drops](https://vanillatweaks.net/picker/datapacks/) [1\.1\.15]
     - [Unlock All Recipes](https://vanillatweaks.net/picker/datapacks/) [2\.0\.16]
+    - [Dragon Egg Respawns](https://modrinth.com/project/mVpCL1lC) [1\.0\.0]
   - World
     - [Blooming Biosphere](https://modrinth.com/project/Ds9FyUc7) [1\.1\.12]
     - [Compatibility Layer](https://modrinth.com/project/GDnm1VHj) [1\.1]
